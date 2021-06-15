@@ -8,21 +8,21 @@
     
 
 2. Safe Operations
-    1. [`@Shadow`](https://github.com/CammiePone/Mixin-Crash-Course)
-    2. [`@Unique`](https://github.com/CammiePone/Mixin-Crash-Course)
-    3. [`@Mutable`](https://github.com/CammiePone/Mixin-Crash-Course)
-    4. [`@Accessor` & `@Invoker`](https://github.com/CammiePone/Mixin-Crash-Course)
+    1. ~~[`@Shadow`](https://github.com/CammiePone/Mixin-Crash-Course)~~
+    2. ~~[`@Unique`](https://github.com/CammiePone/Mixin-Crash-Course)~~
+    3. ~~[`@Mutable`](https://github.com/CammiePone/Mixin-Crash-Course)~~
+    4. ~~[`@Accessor` & `@Invoker`](https://github.com/CammiePone/Mixin-Crash-Course)~~
     5. ~~[Duck Interfaces](https://github.com/CammiePone/Mixin-Crash-Course)~~
-    6. [`@Inject`](https://github.com/CammiePone/Mixin-Crash-Course)
-        1. [Injection Points](https://github.com/CammiePone/Mixin-Crash-Course)
-            1. [Commonly Used Injection Points](https://github.com/CammiePone/Mixin-Crash-Course)
-            2. [`INVOKE` & `INVOKE_ASSIGN`](https://github.com/CammiePone/Mixin-Crash-Course)
-        2. [Local Variables](https://github.com/CammiePone/Mixin-Crash-Course)
-        3. [Cancelling Methods](https://github.com/CammiePone/Mixin-Crash-Course)
-    7. [`@ModifyVariable`](https://github.com/CammiePone/Mixin-Crash-Course)
+    6. ~~[`@Inject`](https://github.com/CammiePone/Mixin-Crash-Course)~~
+        1. ~~[Injection Points](https://github.com/CammiePone/Mixin-Crash-Course)~~
+            1. ~~[Commonly Used Injection Points](https://github.com/CammiePone/Mixin-Crash-Course)~~
+            2. ~~[`INVOKE` & `INVOKE_ASSIGN`](https://github.com/CammiePone/Mixin-Crash-Course)~~
+        2. ~~[Local Variables](https://github.com/CammiePone/Mixin-Crash-Course)~~
+        3. ~~[Cancelling Methods](https://github.com/CammiePone/Mixin-Crash-Course)~~
+    7. ~~[`@ModifyVariable`](https://github.com/CammiePone/Mixin-Crash-Course)~~
     
 
 3. Unsafe Operations
-    1. [`@Overwrite`](https://github.com/CammiePone/Mixin-Crash-Course)
-    2. [`@Redirect`](https://github.com/CammiePone/Mixin-Crash-Course)
-    3. [`@ModifyConstant`](https://github.com/CammiePone/Mixin-Crash-Course)
+    1. ~~[`@Overwrite`](https://github.com/CammiePone/Mixin-Crash-Course)~~
+    2. ~~[`@Redirect`](https://github.com/CammiePone/Mixin-Crash-Course)~~
+    3. ~~[`@ModifyConstant`](https://github.com/CammiePone/Mixin-Crash-Course)~~
