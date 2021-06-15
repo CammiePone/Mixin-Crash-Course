@@ -1,0 +1,23 @@
+{
+	"schemaVersion": 1,
+	"id": "mcc",
+	"version": "${version}",
+	"name": "Mixin Crash Course",
+	"description": "",
+	"authors": [
+		"Cammie"
+	],
+	"license": "MIT",
+	"environment": "*",
+	"mixins": [
+		"mcc.mixins.json"
+	],
+	"depends": {
+		"fabricloader": ">=0.7.4",
+		"fabric": "*",
+		"minecraft": "1.16.5"
+	},
+	"suggests": {
+		"flamingo": "*"
+	}
+}
