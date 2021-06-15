@@ -8,21 +8,21 @@
     
 
 2. Safe Operations
-    1. [`@Shadow`]()
-    2. [`@Unique`]()
-    3. [`@Mutable`]()
-    4. [`@Accessor` & `@Invoker`]()
-    5. [Duck Typing]()
-    6. [`@Inject`]()
-        1. [Injection Points]()
-            1. [Commonly Used Injection Points]()
-            2. [`INVOKE` & `INVOKE_ASSIGN`]()
-        2. [Local Variables]()
-        3. [Cancelling Methods]()
-    7. [`@ModifyVariable`]()
+    1. [`@Shadow`](https://github.com/CammiePone/Mixin-Crash-Course)
+    2. [`@Unique`](https://github.com/CammiePone/Mixin-Crash-Course)
+    3. [`@Mutable`](https://github.com/CammiePone/Mixin-Crash-Course)
+    4. [`@Accessor` & `@Invoker`](https://github.com/CammiePone/Mixin-Crash-Course)
+    5. [Duck Typing](https://github.com/CammiePone/Mixin-Crash-Course)
+    6. [`@Inject`](https://github.com/CammiePone/Mixin-Crash-Course)
+        1. [Injection Points](https://github.com/CammiePone/Mixin-Crash-Course)
+            1. [Commonly Used Injection Points](https://github.com/CammiePone/Mixin-Crash-Course)
+            2. [`INVOKE` & `INVOKE_ASSIGN`](https://github.com/CammiePone/Mixin-Crash-Course)
+        2. [Local Variables](https://github.com/CammiePone/Mixin-Crash-Course)
+        3. [Cancelling Methods](https://github.com/CammiePone/Mixin-Crash-Course)
+    7. [`@ModifyVariable`](https://github.com/CammiePone/Mixin-Crash-Course)
     
 
 3. Unsafe Operations
-    1. [`@Overwrite`]()
-    2. [`@Redirect`]()
-    3. [`@ModifyConstant`]()
+    1. [`@Overwrite`](https://github.com/CammiePone/Mixin-Crash-Course)
+    2. [`@Redirect`](https://github.com/CammiePone/Mixin-Crash-Course)
+    3. [`@ModifyConstant`](https://github.com/CammiePone/Mixin-Crash-Course)
