@@ -9,4 +9,4 @@ If I am made aware of other limitations at some point in the future, this file w
    <br><br>
 3. You cannot modify or add to if statements, switch statements, for loops, or while loops. You can modify the code contained within them, but you cannot modify the checks within these statements or loops. There are exceptions, but are beyond the scope of this crash course.
    <br><br>
-4. You can only use @Inject to add code to the TAIL or RETURN of constructors.
+4. You can only use `@Inject` to add code to the `TAIL` or `RETURN` of constructors.

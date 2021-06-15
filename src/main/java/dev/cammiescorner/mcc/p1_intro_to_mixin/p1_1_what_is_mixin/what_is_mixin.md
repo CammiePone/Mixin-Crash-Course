@@ -25,6 +25,6 @@ Jarmodding, on the other hand, has the ease of learning strength that comes with
    <br><br>
    While Mixin can replace many things, including events (premade injection sites to make it easier for modders to add additional functionality to a given "event" that occurs in game, such as an item being dropped), it cannot replace everything.
    <br><br>
-4. _"Mixins are 100% safe, so long as you don't use @Overwrite."_
+4. _"Mixins are 100% safe, so long as you don't use `@Overwrite`."_
    <br><br>
-   
+   This is very much untrue. There are two other "unsafe" operations that I will get into in the "Safe vs. Unsafe Operations" section.

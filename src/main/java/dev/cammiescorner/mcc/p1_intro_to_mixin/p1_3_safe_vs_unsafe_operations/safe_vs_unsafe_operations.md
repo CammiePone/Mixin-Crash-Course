@@ -1,9 +1,9 @@
 ## Safe vs. Unsafe Operations
 Firstly, I should define what I mean by "safe" and "unsafe" operations, as there are no standardised terms for these groupings.
 <br><br>
-When I refer to a "safe" operation, I mean an operation that will - if done properly - work with other mods that do the same operation in the same place. These would be your @Inject, @ModifyVariable, and @Accessor/Invoker annotations.
+When I refer to a "safe" operation, I mean an operation that will - if done properly - work with other mods that do the same operation in the same place. These would be your `@Inject`, `@ModifyVariable`, and `@Accessor`/`@Invoker` annotations.
 <br><br>
-When I refer to an "unsafe" operation, I mean an operation that will always break with another mod that does the same operation in the same location. These are your @Overwrite, @Redirect, and @ModifyConstant operations.
+When I refer to an "unsafe" operation, I mean an operation that will always break with another mod that does the same operation in the same location. These are your `@Overwrite`, `@Redirect`, and `@ModifyConstant` operations.
 
 ## When To Use Safe Operations
 Safe operations are the ones you want to use the most whenever doing anything regarding Mixins. So long as you do them right, there is no reason to not use them if you need them, however there are some exceptions.
