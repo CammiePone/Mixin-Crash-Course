@@ -1,4 +1,4 @@
-## Limitations Of Mixin
+## Limitations of Mixin
 This is far from an exhaustive list, but despite the sheer power Mixin grants to modders, it does have some limitations. To my knowledge, the majority of these are arbitrary limitations and have no technical reason behind them.
 <br><br>
 If I am made aware of other limitations at some point in the future, this file will be updated to include them, so check the GitHub repository linked in the description.
