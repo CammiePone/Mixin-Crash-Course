@@ -12,7 +12,7 @@
     2. [`@Unique`](https://github.com/CammiePone/Mixin-Crash-Course)
     3. [`@Mutable`](https://github.com/CammiePone/Mixin-Crash-Course)
     4. [`@Accessor` & `@Invoker`](https://github.com/CammiePone/Mixin-Crash-Course)
-    5. [Duck Typing](https://github.com/CammiePone/Mixin-Crash-Course)
+    5. ~~[Duck Interfaces](https://github.com/CammiePone/Mixin-Crash-Course)~~
     6. [`@Inject`](https://github.com/CammiePone/Mixin-Crash-Course)
         1. [Injection Points](https://github.com/CammiePone/Mixin-Crash-Course)
             1. [Commonly Used Injection Points](https://github.com/CammiePone/Mixin-Crash-Course)
